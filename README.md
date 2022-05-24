@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vibhor-kulshrestha
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning advanced java
-- 💞️ I’m looking to collaborate on tcs
 - 📫 How to reach me -7455916722
 
 <!---
